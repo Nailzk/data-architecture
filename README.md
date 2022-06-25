@@ -181,17 +181,22 @@ As the designer works closely with the client, important variables must be consi
 </p>
 
 * Who will the building ultimately serve?
-
 * What program elements will the building contain?
-
 * Where will these program elements be located?
-
 * How will the building integrate within the site?
-
 * What is the total size of the building?
 
+<p>
+Beyond the technical scope of programming, the designer must also consider experiential qualities, such as:
+</p>
+
+* What type of light will illuminate the space?
+* How will the space deal with sound?
+* What kind of materials will be used within the space?
+* Which programmatic elements will be adjacent to one another?
+
 <p align="center">
-<img align="center" src="https://www.w3.org/2005/Incubator/model-based-ui/wiki/images/4/4a/Architecture3.PNG"/>
+<img align="center" src="https://www.wbdg.org/images/archprogramming_3.jpg"/>
 </p>
 
 ### 🤝 Connect with me:
