@@ -22,7 +22,7 @@ An architecture model is a partial abstraction of a system. It is an approximati
 </p>
 
 <p align="center">
-<img align="center" src="https://ars.els-cdn.com/content/image/3-s2.0-B9780124104648000106-f10-09-9780124104648.jpg"/>
+<img align="center" src="./diagrams/architecture_models.png"/>
 </p>
 
 ## 🛸 OOP Paradigm
@@ -32,7 +32,7 @@ The major motivating factor in the invention of object-oriented approch is to re
 </p>
 
 <p align="center">
-<img align="center" src="https://www.learncomputerscienceonline.com/wp-content/uploads/2021/01/Advantages-Of-Object-Oriented-Programming.jpg"/>
+<img align="center" src="./diagrams/oop_paradigm.png"/>
 </p>
 
 ## ⌛ Data Flow Architecture
@@ -50,7 +50,7 @@ model, as presented in this paper.
 </p>
 
 <p align="center">
-<img align="center" src="https://www.researchgate.net/profile/John-Hawker/publication/238306285/figure/fig2/AS:667615651430401@1536183383257/Data-flow-architecture-of-OldCARE.png"/>
+<img align="center" src="./diagrams/data_flow.png"/>
 </p>
 
 ## 🏬 Data Centered Architecture
@@ -64,7 +64,7 @@ Another case of information focused structures is the web architecture which has
 </p>
 
 <p align="center">
-<img align="center" src="https://www.wisdomjobs.com/userfiles/data_centered_architecture.jpg"/>
+<img align="center" src="./diagrams/data_centered.png"/>
 </p>
 
 ## 🔥 Hierarchical Architecture
@@ -77,7 +77,7 @@ One of these hierarchies (often called the Abstraction) will get a reference to 
 </p>
 
 <p align="center">
-<img align="center" src="https://www.tutorialspoint.com/software_architecture_design/images/main_subroutine.jpg"/>
+<img align="center" src="./diagrams/hierarchical.png"/>
 </p>
 
 ## 💀 Interaction Oriented Architecture
@@ -99,7 +99,7 @@ Interaction-oriented architecture has two major styles − Model-View-Controller
 </p>
 
 <p align="center">
-<img align="center" src="https://www.tutorialspoint.com/software_architecture_design/images/mvc_component.jpg"/>
+<img align="center" src="./diagrams/interaction_oriented.png"/>
 </p>
 
 ## ✒️ Distributed Architecture
@@ -112,7 +112,7 @@ So, from the aforementioned facts it is clear that, blockchain is a platform whi
 </p>
 
 <p align="center">
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S0065245820300620-f07-13-9780128219911.jpg"/>
+<img align="center" src="./diagrams/distributed.png"/>
 </p>
 
 ## 🅰️ Component Based Architecture (Angular as Example)
@@ -140,7 +140,7 @@ An application's components typically define many views, arranged hierarchically
 </p>
 
 <p align="center">
-<img align="center" src="https://angular.io/generated/images/guide/architecture/component-tree.png"/>
+<img align="center" src="./diagrams/component_based.png"/>
 </p>
 
 ## 👤 User Interface
@@ -159,7 +159,7 @@ Informational Components: tooltips, icons, progress bar, notifications, message 
 </p>
 
 <p align="center">
-<img align="center" src="https://www.w3.org/2005/Incubator/model-based-ui/wiki/images/4/4a/Architecture3.PNG"/>
+<img align="center" src="./diagrams/user_interface.png"/>
 </p>
 
 ## ✨ Architecture Techniques
@@ -196,7 +196,7 @@ Beyond the technical scope of programming, the designer must also consider exper
 * Which programmatic elements will be adjacent to one another?
 
 <p align="center">
-<img align="center" src="https://www.wbdg.org/images/archprogramming_3.jpg"/>
+<img align="center" src="./diagrams/architecture_techniques.png"/>
 </p>
 
 ### 🤝 Connect with me:
