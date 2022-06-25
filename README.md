@@ -101,6 +101,7 @@ Interaction-oriented architecture has two major styles − Model-View-Controller
 <p>
 In a distributed architecture , there is no need for a central authority. In this system architecture, each node is connected and coordinated with every node. They can collectively share the information and worked together. In this, if any single or multiple nodes fails then other nodes can share their information or perform the operation using coordination and cooperation.
 <br>
+<br>
 So, from the aforementioned facts it is clear that, blockchain is a platform which helps us to provide a decentralized and distributed platform where we can share the information among others in a trusty manner. Using this technology, both Bob and Alice can edit or update the document simultaneously. The main advantage of this technology is that it does not rely on the centralized system. So, by definition, we can say that blockchain is a platform that provides consistency in the database. It also supports whatever information Alice and Bob are writing individually on the document, they get synchronized over the network.
 </p>
 
