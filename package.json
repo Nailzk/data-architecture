@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "18.0.0"
+  },
+  "scripts": {
+    "oop": "tsc -t es5 src/OOP/index.ts && node src/OOP/index.js",
+    "hierar": "tsc -t es5 src/hierarchical/index.ts && node src/hierarchical/index.js"
+  }
+}
