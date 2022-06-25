@@ -50,7 +50,7 @@ model, as presented in this paper.
 </p>
 
 <p align="center">
-<img align="center" src="https://www.researchgate.net/profile/Juergen-Brandstetter/publication/318700916/figure/fig14/AS:631661003817016@1527611127974/UML-data-flow-diagram-between-the-different-parties-Note-big-arrows-mean-broadcast.png"/>
+<img align="center" src="https://www.researchgate.net/profile/John-Hawker/publication/238306285/figure/fig2/AS:667615651430401@1536183383257/Data-flow-architecture-of-OldCARE.png"/>
 </p>
 
 ## 🏬 Data Centered Architecture
