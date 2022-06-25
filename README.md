@@ -1,6 +1,6 @@
 # data architecture
 
-![](<[https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB](https://blog.theodo.com/static/ba2166b279b234c4824d1c2fb299ced2/a79d3/ts_logo.png)>)
+![banner](<[https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB](https://blog.theodo.com/static/ba2166b279b234c4824d1c2fb299ced2/a79d3/ts_logo.png)>)
 
 ## 🔭 I'm currently working on Architecture Models on TypeScript
 
