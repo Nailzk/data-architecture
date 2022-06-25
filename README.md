@@ -38,15 +38,10 @@ The major motivating factor in the invention of object-oriented approch is to re
 ## ⌛ Data Flow Architecture
 
 <p>
-Dataflow programming (DFP) introduces a new programming paradigm that
-internally represents applications as a directed graph, similarly to a dataflow
-diagram. Applications are represented as a set of nodes (also called blocks) with
-input and/or output ports in them. These nodes can either be sources, sinks or
-processing blocks to the information flowing in the system. Nodes are connected
-by directed edges that define the flow of information between them. Most visual
-programming languages that use a block-based architecture for representing their
-workflow are indeed based on DFP .Several advantages are inherited with such
-model, as presented in this paper.
+In dataflow control architectures there is no concept of "sequence of instructions", no Instruction Pointer, there is not even addressable memory in the usual sense. A program in a streaming system is not a set of commands, but a computational graph. Each node in the graph is an operator or set of operators, and the branches reflect the dependencies of the nodes on the data. The next node starts running as soon as all its input data is available. This is one of the main principles of dataflow: the execution of instructions for data readiness.
+<br>
+<br>
+Here is an example of a graph for calculating the roots of a quadratic equation.
 </p>
 
 <p align="center">
