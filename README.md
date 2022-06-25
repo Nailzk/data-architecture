@@ -35,6 +35,37 @@ The major motivating factor in the invention of object-oriented approch is to re
 <img align="center" src="https://www.learncomputerscienceonline.com/wp-content/uploads/2021/01/Advantages-Of-Object-Oriented-Programming.jpg"/>
 </p>
 
+## ⌛ Data Flow Architecture
+
+<p>
+Dataflow programming (DFP) introduces a new programming paradigm that
+internally represents applications as a directed graph, similarly to a dataflow
+diagram. Applications are represented as a set of nodes (also called blocks) with
+input and/or output ports in them. These nodes can either be sources, sinks or
+processing blocks to the information flowing in the system. Nodes are connected
+by directed edges that define the flow of information between them. Most visual
+programming languages that use a block-based architecture for representing their
+workflow are indeed based on DFP .Several advantages are inherited with such
+model, as presented in this paper.
+</p>
+
+<p align="center">
+<img align="center" src="https://www.researchgate.net/profile/Juergen-Brandstetter/publication/318700916/figure/fig14/AS:631661003817016@1527611127974/UML-data-flow-diagram-between-the-different-parties-Note-big-arrows-mean-broadcast.png"/>
+</p>
+
+## 🏬 Data Centered Architecture
+
+<p>
+An information focused architecture, the information is concentrated and gotten to every now and again by different parts, which alter information. The fundamental motivation behind this style is to accomplish integrality of information. Information focused architecture comprises of various parts that convey through shared information vaults. The segments get to a common information structure and are generally free, in that, they associate just through the information store.
+
+The most surely understood cases of the information focused design is a database architecture, in which the regular database construction is made with information definition convention – for instance, an arrangement of related tables with fields and information types in a RDBMS.
+Another case of information focused structures is the web architecture which has a typical information composition (i.e. meta-structure of the Web) and takes after hypermedia information model and procedures impart using shared online information administrations.
+</p>
+
+<p align="center">
+<img align="center" src="https://www.wisdomjobs.com/userfiles/data_centered_architecture.jpg"/>
+</p>
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/volodya-huk-826937199/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Volodya Huk | LinkedIn" width="32px"/></a>
