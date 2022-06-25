@@ -57,7 +57,7 @@ model, as presented in this paper.
 
 <p>
 An information focused architecture, the information is concentrated and gotten to every now and again by different parts, which alter information. The fundamental motivation behind this style is to accomplish integrality of information. Information focused architecture comprises of various parts that convey through shared information vaults. The segments get to a common information structure and are generally free, in that, they associate just through the information store.
-
+<br>
 The most surely understood cases of the information focused design is a database architecture, in which the regular database construction is made with information definition convention – for instance, an arrangement of related tables with fields and information types in a RDBMS.
 Another case of information focused structures is the web architecture which has a typical information composition (i.e. meta-structure of the Web) and takes after hypermedia information model and procedures impart using shared online information administrations.
 </p>
@@ -65,6 +65,49 @@ Another case of information focused structures is the web architecture which has
 <p align="center">
 <img align="center" src="https://www.wisdomjobs.com/userfiles/data_centered_architecture.jpg"/>
 </p>
+
+## 🔥 Hierarchical Architecture
+
+<p>
+Hierarchical Architecture is a structural design pattern that divides business logic or huge class into separate class hierarchies that can be developed independently.
+<br>
+One of these hierarchies (often called the Abstraction) will get a reference to an object of the second hierarchy (Implementation). The abstraction will be able to delegate some (sometimes, most) of its calls to the implementations object. Since all implementations will have a common interface, they’d be interchangeable inside the abstraction.
+</p>
+
+<p align="center">
+<img align="center" src="https://www.tutorialspoint.com/software_architecture_design/images/main_subroutine.jpg"/>
+</p>
+
+## 💀 Interaction Oriented Architecture
+
+<p>
+The primary objective of interaction-oriented architecture is to separate the interaction of user from data abstraction and business data processing. The interaction-oriented software architecture decomposes the system into three major partitions −
+<br>
+Data module − Data module provides the data abstraction and all business logic.
+<br>
+Control module − Control module identifies the flow of control and system configuration actions.
+<br>
+View presentation module − View presentation module is responsible for visual or audio presentation of data output and it also provides an interface for user input.
+<br>
+Interaction-oriented architecture has two major styles − Model-View-Controller (MVC) and Presentation-Abstraction-Control (PAC). Both MVC and PAC propose three components decomposition and are used for interactive applications such as web applications with multiple talks and user interactions. They are different in their flow of control and organization. PAC is an agent-based hierarchical architecture but MVC does not have a clear hierarchical structure.
+</p>
+
+<p align="center">
+<img align="center" src="https://www.tutorialspoint.com/software_architecture_design/images/mvc_component.jpg"/>
+</p>
+
+## ✒️ Distributed Architecture
+
+<p>
+In a distributed architecture , there is no need for a central authority. In this system architecture, each node is connected and coordinated with every node. They can collectively share the information and worked together. In this, if any single or multiple nodes fails then other nodes can share their information or perform the operation using coordination and cooperation.
+<br>
+So, from the aforementioned facts it is clear that, blockchain is a platform which helps us to provide a decentralized and distributed platform where we can share the information among others in a trusty manner. Using this technology, both Bob and Alice can edit or update the document simultaneously. The main advantage of this technology is that it does not rely on the centralized system. So, by definition, we can say that blockchain is a platform that provides consistency in the database. It also supports whatever information Alice and Bob are writing individually on the document, they get synchronized over the network.
+</p>
+
+<p align="center">
+<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S0065245820300620-f07-13-9780128219911.jpg"/>
+</p>
+
 
 ### 🤝 Connect with me:
 
