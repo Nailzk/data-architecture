@@ -25,6 +25,16 @@ An architecture model is a partial abstraction of a system. It is an approximati
 <img align="center" src="https://ars.els-cdn.com/content/image/3-s2.0-B9780124104648000106-f10-09-9780124104648.jpg"/>
 </p>
 
+## 🛸 OOP Paradigm
+
+<p>
+The major motivating factor in the invention of object-oriented approch is to remove some of the flaws encountered in the procedural approch. OOP treats data as a critical element in the program development and does not allow it to flow freely around the systems. It ties data more closely to the functions that operate on it, and protects it from accidental modification from outside functions. OOP allows decomposition of a problem into a number of entities called objects and then builds data and functions around these objects. The data of an object can be accessed only by the function associated with that object. However, functions of one object can access the the functions of other objects.
+</p>
+
+<p align="center">
+<img align="center" src="https://www.learncomputerscienceonline.com/wp-content/uploads/2021/01/Advantages-Of-Object-Oriented-Programming.jpg"/>
+</p>
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/volodya-huk-826937199/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Volodya Huk | LinkedIn" width="32px"/></a>
