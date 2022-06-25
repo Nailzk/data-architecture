@@ -16,5 +16,5 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/volodya-huk-826937199/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Volodya Huk | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/volodyahuk_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Volodya Huk | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/volodya-huk-826937199/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Volodya Huk | LinkedIn" width="32px"/></a>
+<a href="https://instagram.com/volodyahuk_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Volodya Huk | Instagram" width="32px"/></a>
