@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
         "target": "es5",
+        "baseUrl": "./"
     },
-    "files": ["./src/OOP/tsconfig.json"]
+    "files": ["./src/OOP/tsconfig.json"],
 }
